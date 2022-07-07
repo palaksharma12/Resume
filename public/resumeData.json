@@ -1,0 +1,69 @@
+{
+  "main": {
+    "name": "Hey! I'm Palak Sharma ",
+    "description": "I am a passionate web and app developer. I'm a third-year data science and engineering student at the Indian Institute of Technology, Mandi. I am also a core member of my college's programming club and have organised a number of technical events (Astrax'22, Frosthack'22, Xpecto'22, CP101, Algohack, and so on). I enjoy coding and am seeking for new possibilities to showcase my skills.",
+    "image": "plk.jpg",
+    "social": [
+      {
+        "name": "gmail",
+        "url": "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=plksharma30@gmail.com",
+        "className": "fa fa-envelope"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/palak-sharma-0a1628212/",
+        "className": "fa fa-linkedin"
+      },
+      
+      {
+        "name": "github",
+        "url": "https://github.com/palaksharma12",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "project": [
+      {
+        "company": "Child Fly",
+        "title": "Node JS, React JS, MongoDB, Solidity",
+        "years": "May 2022",
+        "description": "We in ChildFly provide a block-chain powered platform to report child labour. The reporters can track their report of inspection by a police officer, further on successful verification of the crime by the inspector, the reporters also receives a bounty or prize money in form of ethers as cryptocurrency by the administration.  The entire interactive front-end of the website is built using ReactJs, while the backend is in Node Js and MongoDB. Ganache and Metamask  is used to generate and manage test ethers and Solidity for writing code responsible for managing transfer of ethers from admin account to user account. My team secured second position among all blockchain submissions. "
+      },
+      {
+        "company": "Lakshman Rekha",
+        "title": "Flutter, Firebase, Flask, Machine Learning",
+        "years": "December 2021",
+        "description": "I developed a web app to manage and monitor students held under quarantine. It had 2 components:- admin and security guard side to handle the data of students based on their activity. I used Firebase Cloud in S-guard and Flask API in Admin Dashboard to display the data of students. I implemented features to search, sort, and filter the list of students based on certain rules specified for quarantine. I also implemented the feature where the guard can maintain the students’ quarantine status and approve/disapprove their request based on their activities."
+      },
+      {
+        "company": "Qlink",
+        "title": "NodeJS, ExpressJS, Firebase, HTML, CSS",
+        "years": "October 2021",
+        "description": "We Developed an online educational platform where students can form their groups, ask doubts, post blogs and answer questions. This project was selected as one of the top 10 projects in the National Level ACMW hackathon 2021."
+      },
+      {
+        "company": "Jarvis AI Desktop Voice Assistant",
+        "title": "Python, Pyttsx3, Wikipedia, Smtplib, Speech Recognition module",
+        "years": "June 2021",
+        "description": "I created Jarvis to send emails, play music, open Wikipedia and other websites with voice commands. It can also open any IDE or any app by voice commands."
+      }
+     
+    ],
+    "work": [
+      {
+        "company": "Software development Intern, HeyDoc Startup Organization",
+        "title": "Flutter, Firebase, React JS",
+        "years": "March 2022 - Present",
+        "description": "HeyDoc is a Unified Digital Healthcare ecosystem working in synergy with the needs of patients and doctors in India. I developed its website using React.js as framework to improve SEO."
+      },
+      {
+        "company": "IIT Mandi Students Website, Web developer",
+        "title": "HTML, CSS, JavaScript",
+        "years": "October 2021",
+        "description": "We Revamped the students’ website which contains all relevant information for students of IIT Mandi. I made student's Achiements section. As part of the Institute Building Projects (IBP), I worked with deans, secretaries, and staff."
+      }
+    ]
+  }
+}
